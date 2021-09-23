@@ -1,2 +1,3 @@
-# deep-rl-algorithms
-A curated list of Deep Reinforcement Learning algorithms with TensorFlow 2 and PyTorch
+# CubbyRL
+
+Simple implementations of various popular Deep Reinforcement Learning algorithms using TensorFlow 2 and PyTorch
